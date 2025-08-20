@@ -1,0 +1,35 @@
+{
+  "motoristas": [
+    {
+      "id": "1",
+      "nome": "João Silva"
+    },
+    {
+      "id": "2",
+      "nome": "Maria Souza"
+    }
+  ],
+  "passageiros": [
+    {
+        "id": "1",
+        "nome": "Pedro Silva"
+    },
+    {
+      "id": "2",
+      "nome": "Ana Paula"
+    }
+  ],
+  "corridas": [
+    {
+      "id": "1",
+      "origem": "Centro",
+      "destino": "Bairro Jardim",
+      "distancia_km": 12,
+      "tarifa_calculada": 36,
+      "status": "em andamento",
+      "motorista": "João Silva",
+      "passageiro": "Carlos Lima",
+      "dataHora": "2025-08-20T13:00:00"
+    }
+  ]
+}
